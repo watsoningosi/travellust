@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\xampp\\htdocs\\Homesy Ltd"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"shyykoserhiy.vscode-spotify"
+		]
+	}
+}
